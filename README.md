@@ -1,2 +1,2 @@
 # TECNOLOCHICAS-SPRO
-Programa Intriducion Cienci Datos
+Programa Introducion Ciencia Datos
